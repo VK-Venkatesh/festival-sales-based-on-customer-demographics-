@@ -4,7 +4,7 @@ This project explores **customer behavior and sales trends** using advanced anal
 
 ---
 
-## ** Project Overview**
+## Project Overview
 
 - **Goal**: Perform end-to-end **Exploratory Data Analysis (EDA)** and derive actionable insights.  
 - **Dataset**: [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset) *(synthetic data added for enhanced analysis)*  
@@ -16,7 +16,7 @@ This project explores **customer behavior and sales trends** using advanced anal
 
 ---
 
-## ** Tech Stack**
+## Tech Stack
 
 - **Languages & Libraries**:  
   `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly`  
@@ -29,7 +29,7 @@ This project explores **customer behavior and sales trends** using advanced anal
 
 ---
 
-## ** Analysis Highlights**
+## Analysis Highlights
 
 ### 1️ Data Cleaning & Preparation
 - Handled missing values, outliers, and data type corrections  
@@ -47,7 +47,7 @@ This project explores **customer behavior and sales trends** using advanced anal
 
 ---
 
-## ** Project Structure**
+## Project Structure
 
 ```bash
 Final_Python_File.ipynb   # Main analysis notebook
