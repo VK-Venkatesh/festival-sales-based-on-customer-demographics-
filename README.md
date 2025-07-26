@@ -37,7 +37,7 @@ This project explores **customer behavior and sales trends** using advanced anal
 
 ### 2️ Exploratory Data Analysis (EDA)
 - Conducted **univariate, bivariate, and multivariate** statistical analysis  
-- Created **boxplots, histograms, violin plots, heatmaps, and 3D scatter plots**  
+- Created **boxplots, histograms, violin plots, heatmaps, and 3D scatter plots, Treemaps, barplots**  
 
 ### 3️ Insights
 - **Demographics**: Key customer segments driving sales  
@@ -51,10 +51,9 @@ This project explores **customer behavior and sales trends** using advanced anal
 
 ```bash
 Final_Python_File.ipynb   # Main analysis notebook
-data/                     # (if applicable) Raw & cleaned datasets
-images/                   # (if applicable) Visualizations & plots
+data/                     # Raw & cleaned datasets
+images/                   # Visualizations & plots
+
 
 🔗 Connect With Me
-
-
 📧 Email: venkateshvarada56@gmail.com
