@@ -41,19 +41,10 @@ This project explores **customer behavior and sales trends** using advanced anal
 
 ### 3️ Insights
 - **Demographics**: Key customer segments driving sales  
-- **Festivals**: Significant sales spikes during **Diwali, Navratri, and Big Billion Days**  
 - **Discounts**: High discounts correlate with increased sales quantity  
 - **Locations**: Metro cities dominate total revenue  
 
 ---
-
-## Project Structure
-
-```bash
-Final_Python_File.ipynb   # Main analysis notebook
-data/                     # Raw & cleaned datasets
-images/                   # Visualizations & plots
-
 
 🔗 Connect With Me
 📧 Email: venkateshvarada56@gmail.com
