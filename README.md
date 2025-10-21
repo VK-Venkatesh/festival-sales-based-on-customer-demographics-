@@ -45,6 +45,5 @@ This project explores **customer behavior and sales trends** using advanced anal
 - **Locations**: Metro cities dominate total revenue  
 
 ---
-
 🔗 Connect With Me
 📧 Email: venkateshvarada56@gmail.com
