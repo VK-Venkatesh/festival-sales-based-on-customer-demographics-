@@ -33,7 +33,6 @@ This project explores **customer behavior and sales trends** using advanced anal
 
 ### 1️ Data Cleaning & Preparation
 - Handled missing values, outliers, and data type corrections  
-- Joined multiple tables using SQL  
 
 ### 2️ Exploratory Data Analysis (EDA)
 - Conducted **univariate, bivariate, and multivariate** statistical analysis  
